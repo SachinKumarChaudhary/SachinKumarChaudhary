@@ -12,7 +12,7 @@
 
 <a href="https://postimg.cc/V0yKVs1P">
   <picture>
-    <img src="https://i.postimg.cc/L55Ghhb5/b219ae35bb15944f082e250b5435e27e9a6077d41516bbd67ece61bf62dbc477.png" width="100%" style="max-width: 100%; height: auto;" alt="Banner Image" />
+    <img src="https://github.com/user-attachments/assets/8b97cd16-14e3-4e45-94da-4d6256bbf637" width="100%" style="max-width: 100%; height: auto;" alt="Banner Image" />
   </picture>
 </a>
 
