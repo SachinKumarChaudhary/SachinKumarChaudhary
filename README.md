@@ -8,13 +8,13 @@
 
 <h2 align="left">About me</h2>
 
-###
+<br>
 
 <a href="https://postimg.cc/V0yKVs1P">
   <img src="https://i.postimg.cc/L55Ghhb5/b219ae35bb15944f082e250b5435e27e9a6077d41516bbd67ece61bf62dbc477.png" width="100%" alt="Banner Image" />
 </a>
 
-###
+<br>
 
 <p align="left">✨ Building systems and solving problems through code  <br>📚 Currently learning Data Structures & Algorithms and Backend Development (Flask/FastAPI)  <br>🎯 Goal: Become a strong backend engineer capable of building scalable and efficient systems  <br>🎲 Fun fact: I treat coding like training—consistent reps, continuous improvement</p>
 
