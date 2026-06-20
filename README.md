@@ -12,9 +12,6 @@
 
 <a href="https://ibb.co/PGz1BqN4"><img src="https://i.ibb.co/PGz1BqN4/b219ae35bb15944f082e250b5435e27e9a6077d41516bbd67ece61bf62dbc477.png" alt="b219ae35bb15944f082e250b5435e27e9a6077d41516bbd67ece61bf62dbc477" border="0"></a>
   <picture>
-    <img src="https://ibb.co/PGz1BqN4" width="100%" style="max-width: 100%; height: auto;" alt="Banner Image" />
-  </picture>
-</a>
 
 <br>
 
