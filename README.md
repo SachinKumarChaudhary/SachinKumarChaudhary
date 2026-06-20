@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://postimg.cc/V0yKVs1P">
+<a href="https://ibb.co/PGz1BqN4">
   <picture>
     <img src="https://ibb.co/PGz1BqN4" width="100%" style="max-width: 100%; height: auto;" alt="Banner Image" />
   </picture>
