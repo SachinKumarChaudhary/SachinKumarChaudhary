@@ -6,12 +6,13 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2>About me</h2>
 
 <br>
 
-<a href="https://ibb.co/PGz1BqN4"><img src="https://i.ibb.co/PGz1BqN4" alt="b219ae35bb15944f082e250b5435e27e9a6077d41516bbd67ece61bf62dbc477" border="0"></a>
-  <picture>
+<a href="https://kommodo.ai/i/4rOwbHXqn2xUqo0uUVUD">
+  <img src="[INSERT_RAW_IMAGE_ADDRESS_HERE]" alt="Profile Image">
+</a>
 
 <br>
 
