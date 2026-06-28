@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://kommodo.ai/i/4rOwbHXqn2xUqo0uUVUD">
-  <img src="[INSERT_RAW_IMAGE_ADDRESS_HERE]" alt="Profile Image">
+  <img src="https://plain-apac-prod-public.komododecks.com/202606/28/4rOwbHXqn2xUqo0uUVUD/image.png" alt="Profile Image">
 </a>
 
 <br>
